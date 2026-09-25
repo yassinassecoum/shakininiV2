@@ -83,3 +83,8 @@ blueberry ink `#1E1B4B`, banana yellow `#FFD84D`, strawberry `#FF5A6E`, oat `#EF
 Headings and numbers in condensed Bricolage Grotesque, body text in DM Sans.
 Blueberry primary buttons with a banana shadow, clearly numbered step pills in the bottom bar,
 blueberry calorie panel with a macro split bar, final ticket with a dashed border and the QR on a banana background.
+
+
+
+
+https://vendmachinery.com/protein-shake-vending-machine/
